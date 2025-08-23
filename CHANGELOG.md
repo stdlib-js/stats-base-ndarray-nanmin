@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5c1bb3c`](https://github.com/stdlib-js/stdlib/commit/5c1bb3c262b799be2c9b8ff6a6d6ec678cd51e24) - **docs:** be consistent with backticks around NaN _(by Philipp Burckhardt)_
 -   [`36e2e16`](https://github.com/stdlib-js/stdlib/commit/36e2e163e14336ff8e7d11b80f9c7a6528014f39) - **feat:** add `stats/base/ndarray/nanmin` [(#7927)](https://github.com/stdlib-js/stdlib/pull/7927) _(by Gururaj Gurram)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
